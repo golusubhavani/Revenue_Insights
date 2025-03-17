@@ -14,11 +14,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 2.Create a dashboard according to the mock-up provided by stakeholders.
 3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-#Project Overview
+##Project Overview
 
 Revenue Insights in the Hospitality Domain is a data analytics project focused on analyzing revenue trends for AtliQ Grands, a luxury hotel chain facing market share loss due to ineffective decision-making and competition. Since they lacked an in-house data analytics team, the goal was to create revenue metrics and interactive dashboards using Power BI to provide actionable insights.
 
-#Objectives
+##Objectives
 
 Analyze revenue trends and performance metrics.
 
@@ -37,6 +37,8 @@ Power Query (for data cleaning and transformation)
 DAX (Data Analysis Expressions) (for calculating key performance metrics)
 
 SQL & Excel (for initial data processing and exploration)
+
+
 
 #Approach
 
@@ -70,11 +72,17 @@ Weekend bookings generated more revenue than weekdays.
 
 High cancellation rates led to significant revenue loss.
 
-Recommendations & Impact
+
+##Recommendations & Impact
 
 Suggested dynamic pricing strategies to maximize revenue during peak seasons.
 
 Improved decision-making through data-driven insights.
+
+##overview
+
+![Screenshot 2025-03-17 141850](https://github.com/user-attachments/assets/0c299115-dc1d-4bdf-8a83-8926a568e806)
+
 
 #Key Takeaways
 
@@ -83,6 +91,7 @@ Strengthened skills in Power BI, data visualization, and business intelligence.
 Gained hands-on experience in deriving data-driven solutions for revenue optimization.
 
 Demonstrated the importance of analytics in strategic decision-making within the hospitality industry.
+
 
 #Connect With Me
 
